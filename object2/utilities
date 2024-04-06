@@ -66,7 +66,7 @@ void catchException() {
 
 void main() {
   // Task 1: Test the sum function
-  print('Sum of 5 and 3: ${sum(5, 3)}');
+  print('Sum is: ${sum(8, 3)}');
 
   // Task 2: Print numbers from 1 to 10
   print('Numbers from 1 to 10:');
@@ -89,7 +89,7 @@ void main() {
 
   // Task 6: Find the largest number in a list
   print('Finding the largest number in a list:');
-  print('Largest number: ${findLargest([3, 7, 2, 9, 5])}');
+  print('Largest number: ${findLargest([3, 7, 1, 9, 6])}');
 
   // Task 7: Catching an exception
   print('Catching an exception:');
